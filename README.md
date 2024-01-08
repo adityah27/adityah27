@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💼 I have an experience of 5 years as a full stack software developer building mobile apps and web apps.<br>🔭 Masters Degree in Computer Science.<br>👯 I’m looking to collaborate on developing new products.<br>🤝 I’m looking for an opportunity to work as a software developer.<br>🌱 I’m currently learning project management for my final semester. <br>💬 Ask me about coding, troubleshooting, automobiles and fitness.
+👨‍💼 I have an experience of 5 years as a full stack software developer building mobile apps and web apps.<br>🔭 Masters Degree in Computer Science.<br>👯 I’m looking to collaborate on developing new products.<br>🤝 I’m looking for an opportunity to work as a software developer.<br>💬 Ask me about coding, troubleshooting, automobiles and fitness.
 
 
 ## 🌐 Socials:
